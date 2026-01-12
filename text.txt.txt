@@ -1,0 +1,2 @@
+Hello Git class!
+This line was added in the feature1 branch.
